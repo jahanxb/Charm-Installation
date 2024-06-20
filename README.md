@@ -157,7 +157,7 @@ http://127.0.0.1:8888/?token=your/token
 ## Step 7: Verify Charm Installation with a Custom Notebook
 -----------------------------------------------------------
 
-To verify that Charm is installed correctly, you can use a custom Jupyter Notebook. Download the `crypto_assignment.ipynb` file from the GitHub repository and run it in your Jupyter Notebook environment.
+To verify that Charm is installed correctly, you can use a custom Jupyter Notebook. Download the `assignment_modern_crypto.ipynb` file from this GitHub repository and run it in your Jupyter Notebook environment.
 
 ## Troubleshooting
 ------------------
