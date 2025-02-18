@@ -19,9 +19,13 @@ This guide provides step-by-step instructions on setting up the Charm Crypto lib
    ```bash
    wsl --install -d Ubuntu-20.04
    ```
-   Alternatively, you can choose Ubuntu 22.04:
+   you can choose Ubuntu 22.04:
    ```bash
    wsl --install -d Ubuntu-22.04
+   ```
+   Or, you can choose Ubuntu 24.04:
+   ```bash
+   wsl --install -d Ubuntu-24.04
    ```
 
 3. **Launch Ubuntu**:
