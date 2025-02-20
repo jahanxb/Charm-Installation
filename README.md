@@ -163,6 +163,18 @@ http://127.0.0.1:8888/?token=your/token
 
 To verify that Charm is installed correctly, you can use a custom Jupyter Notebook. Download the `assignment_modern_crypto.ipynb` file from this GitHub repository and run it in your Jupyter Notebook environment.
 
+## Step 8: How to Use Charm Library ? 
+-----------------------------------------------------------
+Visit the documentation site, https://jhuisi.github.io/charm/schemes.html.
+Check the libraries and scheme that you want to implement. 
+E.g RSA
+Copy the Class source code before running the main example. 
+
+Class Code:
+https://jhuisi.github.io/charm/_modules/pkenc_rsa.html#RSA_Enc
+Example:
+https://jhuisi.github.io/charm/charm/schemes/pkenc/pkenc_rsa.html
+
 ## Troubleshooting
 ------------------
 
